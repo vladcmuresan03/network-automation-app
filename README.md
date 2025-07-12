@@ -37,7 +37,7 @@ Follow these steps for each of these files: Menu.py, Device.py, Router.py, Switc
 'Enter'
 3. Create and fill the devices.json file using the device's properties (or repeat previous step for file 'devices.json')
 Example .json file:
-'''
+```
   {
     "type": "switch",
     "hostname": "SW20",
@@ -56,7 +56,7 @@ Example .json file:
     "exec_password": "pass",
     "device_type": "cisco_ios"
   }
-'''
+```
 
 4. Run the application 
 'python3 Menu.py'
