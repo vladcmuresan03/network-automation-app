@@ -1,0 +1,173 @@
+[
+  {
+    "type": "switch",
+    "hostname": "SW1",
+    "ip_address": "192.168.1.251",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "switch",
+    "hostname": "SW2",
+    "ip_address": "192.168.1.252",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "switch",
+    "hostname": "SW3",
+    "ip_address": "192.168.1.253",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "switch",
+    "hostname": "SW4",
+    "ip_address": "192.168.1.254",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "switch",
+    "hostname": "SW5",
+    "ip_address": "172.16.1.251",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "switch",
+    "hostname": "SW6",
+    "ip_address": "172.16.1.252",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "switch",
+    "hostname": "SW7",
+    "ip_address": "172.16.1.253",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "switch",
+    "hostname": "SW8",
+    "ip_address": "172.16.1.254",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "switch",
+    "hostname": "SW_WAN1",
+    "ip_address": "10.10.20.5",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "switch",
+    "hostname": "SW_WAN2",
+    "ip_address": "20.20.20.5",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "router",
+    "hostname": "R1",
+    "ip_address": "192.168.1.3",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "router",
+    "hostname": "R2",
+    "ip_address": "192.168.1.2",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "router",
+    "hostname": "R3",
+    "ip_address": "172.16.1.3",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "router",
+    "hostname": "R4",
+    "ip_address": "172.16.1.2",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "router",
+    "hostname": "ISP1",
+    "ip_address": "30.30.30.1",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "router",
+    "hostname": "ISP2",
+    "ip_address": "40.40.40.1",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "router",
+    "hostname": "RouterLAN",
+    "ip_address": "40.40.40.2",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "router",
+    "hostname": "RouterMiddle",
+    "ip_address": "50.50.50.1",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  },
+  {
+    "type": "router",
+    "hostname": "RouterServer",
+    "ip_address": "60.60.60.2",
+    "username": "admin",
+    "password": "cisco",
+    "exec_password": "pass",
+    "device_type": "cisco_ios"
+  }
+]
